@@ -1,152 +1,280 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Lyutianyang Zhang",
+    "email": "",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://davidzhang2018.github.io/lyutianyangzhang.github.io/",
+    "summary": "Assistant Professor working on Wi-Fi/5G/6G systems, wireless optimization, and machine learning for communications.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Chongqing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "TeXMdt0AAAAJ",
         "url": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ&view_op=list_works&sortby=pubdate"
       },
       {
         "network": "ORCID",
-        "username": "",
+        "username": "0000-0001-9789-946X",
         "url": "https://orcid.org/0000-0001-9789-946X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "lyutianyangzhang",
+        "url": "https://github.com/lyutianyangzhang"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Assistant Professor",
+      "position": "School of Micro-Electronics and Communication Engineering",
+      "startDate": "2025-02",
+      "endDate": "Present",
+      "summary": "Chongqing University"
+    },
+    {
+      "name": "Huawei Co. Ltd.",
+      "position": "Senior Wi-Fi Standard Engineer",
+      "startDate": "2024-09",
+      "endDate": "2025-02",
+      "summary": "Wi-Fi 7/8 standardization"
+    },
+    {
+      "name": "Apple Inc.",
+      "position": "Wi-Fi Performance Software Engineer",
+      "startDate": "2023-06",
+      "endDate": "2024-05",
+      "summary": "iPhone Wi-Fi PHY/MAC performance and automation"
+    },
+    {
+      "name": "Celona Inc.",
+      "position": "5G System Engineer",
+      "startDate": "2022-06",
+      "endDate": "2022-10",
+      "summary": "5G O-RAN integration and testing"
+    }
+  ],
   "education": [
     {
       "institution": "University of Washington",
       "area": "Ph.D in Electrical Engineering",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2023",
-      "gpa": null,
-      "courses": []
+      "endDate": "2023"
     },
     {
       "institution": "University of Washington",
-      "area": "M.Sc. in Electrical Engineering and Applied Math",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2019",
-      "gpa": null,
-      "courses": []
+      "area": "M.S. in Applied Math",
+      "endDate": "2022"
+    },
+    {
+      "institution": "University of Washington",
+      "area": "M.S. in Electrical Engineering",
+      "endDate": "2019"
     },
     {
       "institution": "Australian National University",
-      "area": "B.S. in Engineering (First Honor)",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2017",
-      "gpa": null,
-      "courses": []
+      "area": "B.S. in Engineering",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Beijing Institute of Technology",
+      "area": "B.S. in Electronic Science and Technology",
+      "endDate": "2017"
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Wireless Communications",
+      "keywords": [
+        "Wi-Fi 7/8",
+        "5G/6G",
+        "Cross-layer design"
+      ]
+    },
+    {
+      "name": "Optimization & ML",
+      "keywords": [
+        "Optimization theory",
+        "Deep reinforcement learning"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python/PyTorch",
+        "MATLAB",
+        "NS-3"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Wi‑Fi 8 Coordinated Beamforming: A Cross-layer Approach towards Optimized Access Point Cluster Formation",
+      "publisher": "IEEE Transactions on Wireless Communications",
+      "releaseDate": "2026-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Indoor Performance Comparison between Outdoor Macro, DAS, Wi‑Fi and Neutral Host",
+      "publisher": "IEEE CCNC",
+      "releaseDate": "2026-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Cross-Layer Channel Sounding Optimization Towards Next-Gen Wi‑Fi",
+      "publisher": "IEEE CCNC",
+      "releaseDate": "2026-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Revisiting Downlink MU-MIMO in Wi‑Fi 7/8: Insights from a Case Study",
+      "publisher": "IEEE Communications Standards Magazine",
+      "releaseDate": "2025-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Cross-Layer Channel Sounding Optimization Towards Next-Gen Wi‑Fi: From Model Driven to Data Driven",
+      "publisher": "IEEE Transactions on Wireless Communications",
+      "releaseDate": "2025-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Scheduling in IEEE 802.11be Multi-Link Operation for Low Latency and High Reliability",
+      "publisher": "IEEE Transactions on Green Communications and Networking",
+      "releaseDate": "2025-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Real-time Status Update System in a Parallel Blocking Queue",
+      "publisher": "IEEE Open Journal of the Communications Society",
+      "releaseDate": "2025-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Static Background Removal in Vehicular Radar: Filtering in Azimuth-Elevation-Doppler Domain",
+      "publisher": "IEEE Sensors Journal",
+      "releaseDate": "2024-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Optimized Non-primary Channel Access Design in IEEE 802.11bn",
+      "publisher": "IEEE GLOBECOM",
+      "releaseDate": "2024-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "A Measurement Campaign of Commercial Private Network Deployment in Indoor and Outdoor Environments",
+      "publisher": "IEEE VTC2024-Fall",
+      "releaseDate": "2024-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Non-primary Channel Access in IEEE 802.11 UHR: Comprehensive Analysis and Evaluation",
+      "publisher": "IEEE VTC2024-Fall",
+      "releaseDate": "2024-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Enterprise Approach: Performance Analysis of Wi‑Fi 6 and 5G Private LAN with Micro-slicing Feature",
+      "publisher": "IEEE Access",
+      "releaseDate": "2024-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "IEEE 802.11be Network Throughput Optimization with Multi-link Operation and AP Controller",
+      "publisher": "IEEE Internet of Things Journal",
+      "releaseDate": "2024-07-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Efficient MIMO PHY Abstraction with Imperfect CSI for Fast Simulations",
+      "publisher": "IEEE Wireless Communications Letters",
+      "releaseDate": "2023-03-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Multiaccess Point Coordination for Next-gen Wi‑Fi Networks Aided by Deep Reinforcement Learning",
+      "publisher": "IEEE Systems Journal",
+      "releaseDate": "2023-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Optimize Semi-persistent Scheduling in NR‑V2X: An Age-of-Information Perspective",
+      "publisher": "IEEE WCNC",
+      "releaseDate": "2022-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Towards Private 5G O-RAN Implementation: Performance and Business Validation",
+      "publisher": "IEEE Future Networks World Forum",
+      "releaseDate": "2022-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "A Comparative Measurement Study of Commercial WLAN and 5G LAN Systems",
+      "publisher": "IEEE VTC2022-Fall",
+      "releaseDate": "2022-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Communications-Caching-Computing Resource Allocation for Bidirectional Data Computation in Mobile Edge Networks",
+      "publisher": "IEEE Transactions on Communications",
+      "releaseDate": "2021-03-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Multiplexing URLLC Traffic Within eMBB Services in 5G NR: Fair Scheduling",
+      "publisher": "IEEE Transactions on Communications",
+      "releaseDate": "2021-02-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Communications-Caching-Computing Tradeoff Analysis for Bidirectional Data Computation in Mobile Edge Networks",
+      "publisher": "IEEE VTC2020-Fall",
+      "releaseDate": "2020-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Performance Analysis and Improvement on DSRC Application for V2V Communication",
+      "publisher": "IEEE VTC2020-Fall",
+      "releaseDate": "2020-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Enhancing WiFi Multiple Access Performance with Federated Deep Reinforcement Learning",
+      "publisher": "IEEE VTC2020-Fall",
+      "releaseDate": "2020-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
+    },
+    {
+      "name": "Cooperative Localisation of UAVs in a GPS-denied Environment Using Bearing Measurements",
+      "publisher": "IEEE CDC",
+      "releaseDate": "2016-01-01",
+      "website": "https://scholar.google.com/citations?hl=en&user=TeXMdt0AAAAJ"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Probability and Random Process",
+      "institution": "University of Washington",
+      "date": "2023-01-01",
+      "role": "Teaching Assistant"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Computer Networking",
+      "institution": "University of Washington",
+      "date": "2022-01-01",
+      "role": "Teaching Assistant"
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
