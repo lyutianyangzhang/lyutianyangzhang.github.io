@@ -51,11 +51,8 @@ My research interests focus on intelligent wireless communication system cross-l
 ## Professional Experience
 
 * **Assistant Professor**, Chongqing University, Chongqing, China. Feb. 2025 - current.
-  Intelligent wireless communication system cross-layer optimization for Wi-Fi, B5G/6G, ISAC, and Wi-Fi 8 standardization. Award: Chongqing Youth Elite.
-
-* **Wi-Fi Senior Standard Engineer Intern**, Huawei Technologies, Shenzhen, China. Sept. 2024 - Feb. 2025.
-  Proposed new Wi-Fi technologies for IEEE 802.11bn PHY and MAC standardization. Participated in IEEE Wi-Fi 8 TGbn teleconferences and consensus building for future Wi-Fi 8 specifications. IEEE Wi-Fi 8 standardization working group voter and contributor. Held 5 first-author Wi-Fi 8 technology patents and 1 first-author IEEE Wi-Fi 8 TGbn standard proposal. Honors: Star of Tomorrow; Excellent Employee.
-
+  Intelligent wireless communication system cross-layer optimization for Wi-Fi, B5G/6G, ISAC, and Wi-Fi 8 standardization. Award: Chongqing Youth Elite. Proposed new Wi-Fi technologies for IEEE 802.11bn PHY and MAC standardization. Participated in IEEE Wi-Fi 8 TGbn teleconferences and consensus building for future Wi-Fi 8 specifications. IEEE Wi-Fi 8 standardization working group voter and contributor. Held multiple Wi-Fi 8 technology patents and IEEE Wi-Fi 8 TGbn standard proposals. 
+  
 * **Wi-Fi Performance Software Engineer**, Apple Inc., Cupertino, CA. Jun. 2023 - May 2024.
   Implemented iPhone DL/UL rate adaptation performance evaluation with data collection and analysis. Managed lab setup including fader, attenuator, NED, FF, and RF shield box for RvR testing. Focused on data analysis and performance debugging for link adaptation and medium utilization at MAC and PHY layers, and proposed algorithm tuning for product performance enhancement.
 
