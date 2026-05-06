@@ -13,9 +13,9 @@ title                    : "Lyutianyang Zhang / Ph.D."
 title_separator          : "-"
 name                     : "Lyutianyang Zhang"
 description              : &description "Assistant Professor at Chongqing University working on intelligent wireless communication systems, Wi-Fi 8, B5G/6G, and PHY-MAC cross-layer optimization."
-url                      : "https://davidzhang2018.github.io"
-baseurl                  : "/lyutianyangzhang.github.io"
-repository               : "DavidZhang2018/lyutianyangzhang.github.io"
+url                      : "https://lyutianyangzhang.github.io"
+baseurl                  : ""
+repository               : "lyutianyangzhang/lyutianyangzhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Assistant Professor at Chongqing University. Ph.D. from the University of Washington. Former Wi-Fi Performance Software Engineer at Apple and IEEE 802.11bn Wi-Fi 8 contributor."
   location         : "Chongqing, China"
   employer         : "Chongqing University"
-  uri              : "https://davidzhang2018.github.io/lyutianyangzhang.github.io/"
+  uri              : "https://lyutianyangzhang.github.io/"
   email            : "zhanglyutianyang@cqu.edu.cn" 
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "DavidZhang2018"
+  github           : "lyutianyangzhang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
