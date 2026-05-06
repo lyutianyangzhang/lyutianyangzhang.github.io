@@ -1,15 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Lyutianyang Zhang",
+    "label": "Assistant Professor, Chongqing University",
+    "email": "zhanglyutianyang@cqu.edu.cn",
+    "phone": "+1-408-581-9468 / +86-156-6725-3153",
+    "website": "https://davidzhang2018.github.io/lyutianyangzhang.github.io/",
+    "summary": "Assistant Professor at Chongqing University working on intelligent wireless communication system cross-layer optimization, Wi-Fi 8 standardization, B5G/6G, ISAC, deep learning-based channel access, and PHY-MAC resource allocation.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Chongqing",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
@@ -24,129 +25,281 @@
         "url": "https://orcid.org/0000-0001-9789-946X"
       },
       {
+        "network": "LinkedIn",
+        "username": "lyutianyang-zhang-363407150",
+        "url": "https://www.linkedin.com/in/lyutianyang-zhang-363407150/"
+      },
+      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "DavidZhang2018",
+        "url": "https://github.com/DavidZhang2018"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Chongqing University",
+      "position": "Assistant Professor",
+      "startDate": "2025-02",
+      "endDate": "Current",
+      "summary": "Intelligent wireless communication system cross-layer optimization for Wi-Fi, B5G/6G, ISAC, and Wi-Fi 8 standardization.",
+      "highlights": [
+        "Award: Chongqing Youth Elite."
+      ]
+    },
+    {
+      "company": "Huawei Technologies",
+      "position": "Wi-Fi Senior Standard Engineer Intern",
+      "startDate": "2024-09",
+      "endDate": "2025-02",
+      "summary": "Proposed new Wi-Fi technologies for IEEE 802.11bn PHY and MAC standardization.",
+      "highlights": [
+        "IEEE Wi-Fi 8 standardization working group voter and contributor.",
+        "Held 5 first-author Wi-Fi 8 technology patents and 1 first-author IEEE Wi-Fi 8 TGbn standard proposal.",
+        "Honors: Star of Tomorrow and Excellent Employee."
+      ]
+    },
+    {
+      "company": "Apple Inc.",
+      "position": "Wi-Fi Performance Software Engineer",
+      "startDate": "2023-06",
+      "endDate": "2024-05",
+      "summary": "Implemented iPhone DL/UL rate adaptation performance evaluation, wireless test setup, data analysis, and PHY/MAC performance debugging.",
+      "highlights": [
+        "Managed RF shield-box RvR testing with fader, attenuator, NED, and FF equipment.",
+        "Proposed link-adaptation and medium-utilization algorithm tuning for product performance enhancement."
+      ]
+    },
+    {
+      "company": "Celona Inc.",
+      "position": "5G O-RAN Engineer Intern",
+      "startDate": "2022-06",
+      "endDate": "2022-10",
+      "summary": "Integrated 5G core network, baseband unit, active antenna unit, and user equipment.",
+      "highlights": [
+        "Used QXDM/QCAT for chip-level data collection and performance analysis.",
+        "Used UERANSIM to emulate end-to-end 5G core scenarios."
+      ]
+    },
+    {
+      "company": "Nokia Bell Labs",
+      "position": "Spectrum Research Intern",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
+      "summary": "Studied railway communication coexistence issues including power coexistence, Doppler effect, and power leakage.",
+      "highlights": [
+        "Explored dynamic spectrum sharing using optimization, CNN, and deep reinforcement learning."
+      ]
+    },
+    {
+      "company": "TCL Technology",
+      "position": "Algorithm Engineer",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Implemented neural-network-based end-to-end text-to-speech with Mel-spectrogram generation and vocoder synthesis.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "University of Washington",
-      "area": "Ph.D in Electrical Engineering",
+      "area": "Ph.D. in Electrical Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2023",
-      "gpa": null,
+      "startDate": "2019-09",
+      "endDate": "2023-06",
+      "gpa": "3.82/4.0",
       "courses": []
     },
     {
       "institution": "University of Washington",
-      "area": "M.Sc. in Electrical Engineering and Applied Math",
+      "area": "M.S. in Electrical and Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2019",
-      "gpa": null,
+      "startDate": "2017-09",
+      "endDate": "2019-08",
+      "gpa": "3.82/4.0",
       "courses": []
     },
     {
-      "institution": "Australian National University",
-      "area": "B.S. in Engineering (First Honor)",
+      "institution": "University of Washington",
+      "area": "M.S. in Applied Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2017",
-      "gpa": null,
+      "startDate": "2019-09",
+      "endDate": "2022-06",
+      "gpa": "3.82/4.0",
+      "courses": []
+    },
+    {
+      "institution": "The Australian National University",
+      "area": "B.S. in Electrical Engineering",
+      "studyType": "",
+      "startDate": "2015-07",
+      "endDate": "2017-06",
+      "gpa": "3.85/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Beijing Institute of Technology",
+      "area": "B.S. in Electronic Science and Technology",
+      "studyType": "",
+      "startDate": "2013-09",
+      "endDate": "2015-06",
+      "gpa": "3.75/4.0",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Wireless Systems",
+      "keywords": [
+        "Wi-Fi 7/8",
+        "IEEE 802.11bn",
+        "5G O-RAN",
+        "B5G/6G",
+        "PHY-MAC cross-layer optimization",
+        "Wireless test automation"
+      ]
+    },
+    {
+      "name": "Programming and Simulation",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "C++",
+        "PyTorch",
+        "NS-3",
+        "Wireshark"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Intelligent wireless communication systems",
+        "Deep learning-based channel access",
+        "Network optimization",
+        "PHY-layer algorithm design",
+        "Mobile edge computing resource allocation"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Wi-Fi 8 Coordinated Beamforming: A Cross-layer Approach towards Optimized Access Point Cluster Formation",
+      "publisher": "IEEE Transactions on Wireless Communications",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Lyutianyang Zhang, Liu Cao, Zhengchuan Chen, Dongyu Wei, Xiangyu Gao, Mingzhe Chen, Shiwen Mao."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Cross-Layer Channel Sounding Optimization Towards Next-Gen Wi-Fi: A Hybrid Model and Data Driven Method",
+      "publisher": "IEEE Transactions on Wireless Communications",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Lyutianyang Zhang, Liu Cao, Dongyu Wei, Mingzhe Chen, Zhengchuan Chen, Shuguang Cui."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Scheduling IEEE 802.11be Multi-Link Operation for Low Latency and High Reliability",
+      "publisher": "IEEE Transactions on Green Communications and Networking",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Lyutianyang Zhang, Liu Cao, Dongyu Wei, Xiangyu Gao."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Revisiting Downlink MU-MIMO in Wi-Fi 7/8: Insights From a Case Study",
+      "publisher": "IEEE Communications Standards Magazine",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Liu Cao, Lyutianyang Zhang, Sumit Roy."
+    },
+    {
+      "name": "Real-Time Status Update System in a Parallel Blocking Queue",
+      "publisher": "IEEE Open Journal of the Communications Society",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Zhengchuan Chen, Junyao Zhu, Nikolaos Pappas, Lyutianyang Zhang, Min Wang."
+    },
+    {
+      "name": "Static Background Removal in Vehicular Radar: Filtering in Azimuth-Elevation-Doppler Domain",
+      "publisher": "IEEE Sensors Journal",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Xiangyu Gao, Hao Yin, Sumit Roy, Lyutianyang Zhang."
+    },
+    {
+      "name": "IEEE 802.11be Network Throughput Optimization with Multi-Link Operation and AP Controller",
+      "publisher": "IEEE Internet of Things Journal",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Lyutianyang Zhang, Hao Yin, Sumit Roy, Liu Cao, Xiangyu Gao, Vanlin Sathya."
+    },
+    {
+      "name": "Enterprise Approach: Performance Analysis of Wi-Fi 6 and 5G Private LAN with Micro-Slicing Feature",
+      "publisher": "IEEE Access",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Vanlin Sathya, Lyutianyang Zhang, Onur Sahin, Mehmet Yavuz."
+    },
+    {
+      "name": "Multi-Access Point Coordination for Next-Gen Wi-Fi Networks Aided by Deep Reinforcement Learning",
+      "publisher": "IEEE Systems Journal",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "Lyutianyang Zhang, Hao Yin, Sumit Roy, Liu Cao."
+    },
+    {
+      "name": "Efficient PHY Layer Abstraction under Imperfect Channel Estimation",
+      "publisher": "IEEE Wireless Communications Letters",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "Liu Cao, Lyutianyang Zhang, Sumit Roy."
+    },
+    {
+      "name": "Communications-Caching-Computing Resource Allocation for Bidirectional Data Computation in Mobile Edge Networks",
+      "publisher": "IEEE Transactions on Communications",
+      "releaseDate": "2021-01-01",
+      "website": "",
+      "summary": "Lyutianyang Zhang, Yaping Sun, Zhiyong Chen, Sumit Roy."
+    },
+    {
+      "name": "Multiplexing URLLC Traffic Within eMBB Services in 5G NR: Fair Scheduling",
+      "publisher": "IEEE Transactions on Communications",
+      "releaseDate": "2021-01-01",
+      "website": "",
+      "summary": "Hao Yin, Lyutianyang Zhang, Sumit Roy."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Probability and Random Process",
+      "institution": "University of Washington",
+      "date": "",
+      "role": "Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Computer Networking",
+      "institution": "University of Washington",
+      "date": "",
+      "role": "Teaching Assistant",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+  "portfolio": [],
+  "standardProposals": [
+    "Support NPCA in Co-TDMA, IEEE 802.11-25/0204, Huawei.",
+    "Switch of Timeout Value in DPS, IEEE 802.11-25/1150r0, Huawei.",
+    "High-Capability Protection in DPS Follow Up, IEEE 802.11-24/2080r1, Huawei.",
+    "Considerations on NPCA Follow Up, IEEE 802.11-24/2092r0, Huawei."
+  ],
+  "patents": [
+    "AP ID Notification in MAPC with Coexisting NPCA.",
+    "Proportional Fairness in CTDMA.",
+    "NPCA in CTDMA.",
+    "Cross-Link-Aided Channel Switch in NPCA.",
+    "LDPC Reliability Enhancements."
   ]
 }

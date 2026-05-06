@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lyutianyang Zhang / P.h.D."
+title                    : "Lyutianyang Zhang / Ph.D."
 title_separator          : "-"
 name                     : "Lyutianyang Zhang"
-description              : &description "personal description"
-url                      : https://davidzhang2018.github.io/lyutianyangzhang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+description              : &description "Assistant Professor at Chongqing University working on intelligent wireless communication systems, Wi-Fi 8, B5G/6G, and PHY-MAC cross-layer optimization."
+url                      : "https://davidzhang2018.github.io"
+baseurl                  : "/lyutianyangzhang.github.io"
+repository               : "DavidZhang2018/lyutianyangzhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,10 +25,10 @@ author:
   avatar           : "bio_real.jpg"
   name             : "Lyutianyang (David) Zhang"
   pronouns         : "he/his"  
-  bio              : "Lyutianyang Zhang Graduated from The University of Washington. He was a former employee at Apple Inc. Now He has joined Chongqing University as as Assistant Professor"
-  location         : "Chongqing, CHINA"
-  employer         : "University of Washington"
-  uri              : # URL
+  bio              : "Assistant Professor at Chongqing University. Ph.D. from the University of Washington. Former Wi-Fi Performance Software Engineer at Apple and IEEE 802.11bn Wi-Fi 8 contributor."
+  location         : "Chongqing, China"
+  employer         : "Chongqing University"
+  uri              : "https://davidzhang2018.github.io/lyutianyangzhang.github.io/"
   email            : "zhanglyutianyang@cqu.edu.cn" 
 
   # Academic websites
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9789-946X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "DavidZhang2018"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lyutianyang-zhang-363407150"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
