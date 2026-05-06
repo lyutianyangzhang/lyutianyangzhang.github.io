@@ -83,10 +83,10 @@ My research interests focus on intelligent wireless communication system cross-l
 
 ## Wi-Fi 8 Standard Proposals
 
-* Lyutianyang Zhang, et al., "Support NPCA in Co-TDMA," IEEE 802.11-25/0204, Huawei.
-* Maolin Zhang, Lyutianyang Zhang, et al., "Switch of Timeout Value in DPS," IEEE 802.11-25/1150r0, Huawei.
-* Maolin Zhang, Lyutianyang Zhang, et al., "High-Capability Protection in DPS Follow Up," IEEE 802.11-24/2080r1, Huawei. Motion passed, IEEE Motion No. 446, IEEE 802.11bn Draft 1.0, page 224.
-* Maolin Zhang, Lyutianyang Zhang, et al., "Considerations on NPCA Follow Up," IEEE 802.11-24/2092r0, Huawei. Motion passed, IEEE 802.11bn Draft 1.0, page 155.
+* Lyutianyang Zhang, et al., "Support NPCA in Co-TDMA," IEEE 802.11-25/0204.
+* Maolin Zhang, Lyutianyang Zhang, et al., "Switch of Timeout Value in DPS," IEEE 802.11-25/1150r0.
+* Maolin Zhang, Lyutianyang Zhang, et al., "High-Capability Protection in DPS Follow Up," IEEE 802.11-24/2080r1. Motion passed, IEEE Motion No. 446, IEEE 802.11bn Draft 1.0, page 224.
+* Maolin Zhang, Lyutianyang Zhang, et al., "Considerations on NPCA Follow Up," IEEE 802.11-24/2092r0. Motion passed, IEEE 802.11bn Draft 1.0, page 155.
 
 ## Patents
 
