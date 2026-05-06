@@ -13,9 +13,12 @@ title                    : "Lyutianyang Zhang / P.h.D."
 title_separator          : "-"
 name                     : "Lyutianyang Zhang"
 description              : &description "personal description"
+
 url                      : "https://davidzhang2018.github.io" # GitHub account site host
 baseurl                  : "/lyutianyangzhang.github.io" # project repository name
 repository               : "davidzhang2018/lyutianyangzhang.github.io"
+=======
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

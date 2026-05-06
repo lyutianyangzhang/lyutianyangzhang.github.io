@@ -45,7 +45,7 @@ IEEE Publications
 * L. Cao, H. Yin, J. Hu, L. Zhang, **"Performance Analysis and Improvement on DSRC Application for V2V Communication,"** *IEEE VTC2020-Fall*, pp. 1-6, 2020.
 * L. Zhang, H. Yin, Z. Zhou, S. Roy, Y. Sun, **"Enhancing WiFi Multiple Access Performance with Federated Deep Reinforcement Learning,"** *IEEE VTC2020-Fall*, pp. 1-6, 2020.
 * L. Zhang, M. Ye, B. D. O. Anderson, P. Sarunic, H. Hmam, **"Cooperative Localisation of UAVs in a GPS-denied Environment Using Bearing Measurements,"** *IEEE CDC 2016*, pp. 4320-4326, 2016.
-
+=======
 Achievements
 ======
 * Assistant Professor, Chongqing University (2025–present)
@@ -56,8 +56,11 @@ Achievements
 
 Patents & Standard Contributions
 ------
-* IEEE 802.11-25/0204: **"Support NPCA in Co-TDMA"** (Huawei)
-* Key Wi-Fi 8 invention disclosures including NPCA/CTDMA and MAPC AP-ID notification proposals
+* IEEE 802.11-25/0204: **"Support NPCA in Co-TDMA"**
+* IEEE 802.11-25/0493r2: **"NPCA during Scheduled Periods"**
+* IEEE 802.11-25/1150r0: **"Switch of Timeout Value in DPS"**
+* IEEE 802.11-24/2092r0: **"Considerations on NPCA Follow Up"**
+* IEEE 802.11-24/2080r1: **"High-Capability Protection in DPS Follow Up"**
 
 Skills
 ------
