@@ -29,11 +29,8 @@ redirect_from:
 * **University of Washington**, Seattle, WA
   M.S. in Applied Mathematics, GPA 3.82/4.0. Sept. 2019 - Jun. 2022.
 
-* **The Australian National University**, Canberra, Australia
-  B.S. in Electrical Engineering, cumulative GPA 3.85/4.0, major GPA 4.0/4.0. Jul. 2015 - Jun. 2017.
-
 * **Beijing Institute of Technology**, Beijing, China
-  B.S. in Electronic Science and Technology, cumulative GPA 3.75/4.0, major GPA 3.9/4.0. Sept. 2013 - Jun. 2015.
+  B.S. in Electronic Science and Technology, cumulative GPA 3.75/4.0, major GPA 3.9/4.0. Sept. 2013 - Jun. 2017.
 
 ## Research Interest
 
